@@ -26,8 +26,8 @@ WorkFlow
  - If there is o data to filter the app, would prompt user that "There is no data to filter" and default results would be reverted back to the user on the homescreen.
  - All that data been feeded to the app is dummmy and mentioned to e const data.
 
-ScreenShots are provided below:
+ScreenShots are mentioned in the project folder inside Snaps
 
 
-APK LINK : 
+APK LINK : https://drive.google.com/file/d/1uylNhN0_G7NGBFP1pMQ8PU2xbHPqsFJS/view?usp=sharing
 
